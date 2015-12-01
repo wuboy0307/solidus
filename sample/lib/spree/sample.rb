@@ -1,4 +1,3 @@
-require 'spree_core'
 module Spree
   module Sample
     def self.load_sample(file)
